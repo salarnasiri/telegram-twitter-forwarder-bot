@@ -43,7 +43,8 @@ Here's the commands:
 - /set\_timezone - set your [timezone name]({}) (for example Asia/Tokyo)
 - /source - info about source code
 - /help - view help text
-This bot is being worked on, so it may break sometimes. Contact @franciscod if you want {}
+- /ping - Pong!
+This bot is being worked on, so it may break sometimes. Contact @salarn14 if you want {}
 """.format(
             TIMEZONE_LIST_URL,
             Emoji.SMILING_FACE_WITH_OPEN_MOUTH_AND_SMILING_EYES),
